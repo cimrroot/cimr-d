@@ -1,0 +1,14 @@
+language: python
+sudo: false
+
+warnings_are_errors: false
+
+python:
+  - "3.6"
+  - "3.7-dev"
+
+branches:
+  only:
+    - master
+    - integrator
+ 
