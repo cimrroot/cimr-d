@@ -1,3 +1,6 @@
+#temp
+reference_data/
+
 # byte-compiled
 __pycache__/
 *.py[ocd]
